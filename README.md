@@ -6,3 +6,13 @@
 #go-cqhttp: https://github.com/Mrs4s/go-cqhttp
 
 同路径会创建resv.csv用来存储用户数据
+
+通过git安装：git clone https://github.com/leezy2/Nonebot-Plugin-KunCultivationNanual.git
+
+BUG
+
+Log
+
+To Do
+
+完善鲲的命名机制系统、战斗奖励机制
