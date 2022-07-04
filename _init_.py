@@ -1,3 +1,6 @@
+#Kun Cultivation Manual v1.0
+
+
 from ast import Num
 from email.mime.nonmultipart import MIMENonMultipart
 import re,os,random,csv,datetime
