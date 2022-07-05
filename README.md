@@ -1,5 +1,5 @@
-# Nonebot-Plugin-KunCultivationNanual
-基于 [nonebot2](https://github.com/nonebot/nonebot2) 和 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 的 QQ群鲲修经插件 KunCultivationNanual-v1.0
+# Nonebot-Plugin-KunCultivationManual
+基于 [nonebot2](https://github.com/nonebot/nonebot2) 和 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 的 QQ群鲲修经插件 KunCultivationManual-v1.0
 
 Illustrate
 -----------------
